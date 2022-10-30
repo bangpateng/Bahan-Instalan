@@ -14,3 +14,7 @@ fi
 ```
 
 **Check Versi Terbaru :** https://go.dev/dl/
+
+# Uninstall Golang
+
+https://howtoinstall.co/en/golang-go?action=remove
